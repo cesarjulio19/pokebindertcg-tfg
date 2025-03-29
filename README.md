@@ -11,5 +11,6 @@
   <br>
   <h2>📌 Anteproyecto</h2>
   <p>enlace al anteproyecto de la aplicación realizado en Notion</p>
-  [Anteproyecto PokéBinder TCG](https://www.notion.so/Pok-Binder-TCG-Anteproyecto-1c51753ac9f3802481d2eb7a88ab045f?pvs=4)
+
+
     
