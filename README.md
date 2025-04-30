@@ -13,5 +13,12 @@
   <p>enlace al anteproyecto de la aplicación realizado en Notion</p>
 
  [Anteproyecto PokéBinder TCG](https://verbose-football-93c.notion.site/Pok-Binder-TCG-Anteproyecto-1c51753ac9f3802481d2eb7a88ab045f?pvs=4)
+ <br>
+ <h2> 🎓 Repositorios de los proyectos </h2>
+ <br>
+ 
+ Programación Multimedia y Dispositivos Móviles : [PokeBinderTCGAndroid](https://github.com/cesarjulio19/PokeBinderTCGAndroid)
+ <br>
+ Acceso a datos : [PokemonTCGProject](https://github.com/cesarjulio19/PokemonTCGProject)
 
     
