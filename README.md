@@ -75,6 +75,16 @@
   <p>La opción realizada para este proyecto ha sido la opción 1: Hacer uso de Python y la librería Pandas para leer un archivo (CSV o JSON) con datos obtenidos de la aplicación desarrollada y los archivos se encuentran en el repositorio:  </p>
  
  [SEG Opción 1](https://github.com/cesarjulio19/SGE-tfg)
+
+ <br>
+
+<h2> ▶️ Vídeo para la exposición día 18</h2>
+
+<br>
+
+[Vídeo Exposición](https://youtu.be/xccdljlHmt8)
+
+
  
 
     
